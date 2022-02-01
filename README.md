@@ -8,7 +8,7 @@ To install, users click the link to the deployed webpage, and install the applic
 
 ## Screenshot
 
-![Screenshot](assets\budget-tracker-pwa.jpg)
+![Screenshot](./assets/budget-tracker-pwa.jpg)
 
 ## Links
 
